@@ -38,3 +38,11 @@ By stripping away visual design elements, wireframes allow designers to concentr
 ## Types of Wireframes
 - Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+- The Airbnb figma design is a high-fidelity wireframe.
+
+## Wireframing tools
+- There are several wireframing tools available, most of which use the same underlying concepts. Figma is a great tool. Some designers like to continue sketching wireframes by hand using a blank sheet of computer paper, or dot grid journals. For those that want to jump into designing on-screen, Figma has a wireframe template to get you started. Figma is browser-based, so sharing your wireframes is as easy as sharing a link. Your team can leave comments right on the file so you can easily get feedback and field questions.
+  
+## Conclusion
+- Your wireframe is the blueprint for what happens next in the process. Once it’s in a good place, add in the content and copy and keep building from there. Eventually, what started as a line drawing will become a fully functioning product.
